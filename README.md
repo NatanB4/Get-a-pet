@@ -11,7 +11,6 @@
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/natanbarbosa2/Get-a-pet?color=56BEB8" />
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/natanbarbosa2/Get-a-pet?color=56BEB8" />
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/natanbarbosa2/Get-a-pet?color=56BEB8" />
-  <img alt="License" src="https://img.shields.io/github/license/natanbarbosa2/Get-a-pet?color=56BEB8" />
 	
   <img alt="Github issues" src="https://img.shields.io/github/issues/natanbarbosa2/Get-a-pet?color=56BEB8" />
   <img alt="Github forks" src="https://img.shields.io/github/forks/natanbarbosa2/Get-a-pet?color=56BEB8" />
@@ -33,7 +32,7 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
+  <a href="https://github.com/NatanBarbosa2" target="_blank">Author</a>
 </p>
 
 <br>
