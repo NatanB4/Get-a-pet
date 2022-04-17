@@ -8,19 +8,14 @@
 <h1 align="center">Get a Pet</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/natanbarbosa2/Get-a-pet?color=56BEB8">
-
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/natanbarbosa2/Get-a-pet?color=56BEB8">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/natanbarbosa2/Get-a-pet?color=56BEB8">
-
-  <img alt="License" src="https://img.shields.io/github/license/natanbarbosa2/Get-a-pet?color=56BEB8">
-
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/natanbarbosa2/Get-a-pet?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/natanbarbosa2/Get-a-pet?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/natanbarbosa2/Get-a-pet?color=56BEB8" /> -->
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/natanbarbosa2/Get-a-pet?color=56BEB8" />
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/natanbarbosa2/Get-a-pet?color=56BEB8" />
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/natanbarbosa2/Get-a-pet?color=56BEB8" />
+  <img alt="License" src="https://img.shields.io/github/license/natanbarbosa2/Get-a-pet?color=56BEB8" />
+	
+  <img alt="Github issues" src="https://img.shields.io/github/issues/natanbarbosa2/Get-a-pet?color=56BEB8" />
+  <img alt="Github forks" src="https://img.shields.io/github/forks/natanbarbosa2/Get-a-pet?color=56BEB8" />
+  <img alt="Github stars" src="https://img.shields.io/github/stars/natanbarbosa2/Get-a-pet?color=56BEB8" />
 </p>
 
 <!-- Status -->
@@ -57,10 +52,8 @@ Describe your project
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 
 ## :white_check_mark: Requirements ##
