@@ -39,7 +39,7 @@
 
 ## :dart: About ##
 
-Describe your project
+A site where you can adopt your pets
 
 ## :sparkles: Features ##
 
