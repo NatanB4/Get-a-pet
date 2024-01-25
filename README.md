@@ -39,13 +39,12 @@
 
 ## :dart: About ##
 
-A site where you can adopt your pets
+Site full-stack para adotar um PET! :)
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Cadastro de Usuario/Pet
+:heavy_check_mark: Marcar encontro com o dono do pet
 
 ## :rocket: Technologies ##
 
